@@ -2,12 +2,12 @@
 
 //config
 $admin = array("0000","0000"); // آیدی ادمین ها
-$usernamebot = "@"; // یوزرنیم ربات
-$channel = "asrnovin_ir"; // یوزرنیم کانال
+$usernamebot = "@Axiom_Onlinesim_Bot"; // یوزرنیم ربات
+$channel = "my_axiom_channel"; // یوزرنیم کانال
 $channelby = "@"; // یوزرنیم کانال گزارش
 $web = "@bot"; // آدرس ربات
-$sup = "@"; // یوزرنیم پشتیبانی
-$far = "نوین نامبر"; // نام فارسی ربات
+$sup = "Axiom Onlinesim"; // یوزرنیم پشتیبانی
+$far = "";
 
 //api پنل ها
 $apikey = "api"; //5sim
@@ -20,7 +20,7 @@ $username = "user";
 $password = 'pass';
 $dbname = "user";
 
-$tokenbot = 'tokenbot';
+$tokenbot = '7762599598:AAFOBX4JFOH3qUN_4ectxFhs6T777tTqTio';
 
 //مرچنت
 $MerchantID = "00000";
